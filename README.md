@@ -22,29 +22,36 @@ alert(String.fromCharCode(67,104,114,105,115,116,105,97,110))
 Te cuento que me gusta todo este mundo de la programación y realmente me entusiasma poder aportar mi trabajo a la comunidad y ayudar a otros con mis conocimientos. Si estás aquí leyendo esto y necesitas de mí, no dudes en contactarme :wink:.
 
 ## Lo que estoy aprendiendo ahora :smiley:
-En esta sección tengo una lista de las cositas que estoy aprendiendo ahora mismo:
+En esta sección tengo una lista de las tecnologías que estoy aprendiendo ahora mismo:
 
-1. JavaScript Profesional
-2. Preprocesadores CSS (SASS, LESS, Stylus)
-3. Accesibilidad Web
-4. WebPack
-5. TypeScript
+1. React.js
+2. Next.js
+3. Gastby.js
+4. Bases de Datos
+5. Node.js
 
 Siempre me tomo mi tiempo y practico varias veces, hago experimentos con el código y analizo lo que otros hacen. Ya sabes: "la práctica hace al maestro".
 
 ## Frontend :sparkles:
-Estas son las tecnologías que domino actualmente:
+Estas son las tecnologías que me permiten Desarrollar aplicaciones web:
 
-* HTML5
-* CSS3 (CSS 2, CSS Grid, Flexbox, Animaciones y Trancisiones)
-* Responsive Design
-* Mobile First
-* Diseño UI/UX (nivel intermedio)
-* JavaScript (nivel intermedio)
-* Git y GitHub
+* Visual Studio Code
 * Linux Terminal
+* Git y GitHub
+* Diseño UI/UX (con Adobe XD y Figma )
+* HTML
+* CSS
+* SASS
+* JavaScript
+* WebComponents
+* Webpack
+* DevTools del Navegador
+* React
 
 ## Contacto :octocat:
-[Platzi](https://platzi.com/p/ChristBM/ "Mi perfil en Platzi")
 
-[Linkedin](https://www.linkedin.com/in/christian-boffill-78a21917b "Mi perfil en Linkedin")
+[My Linkedin](https://www.linkedin.com/in/christian-boffill-78a21917b "Mi perfil en Linkedin")
+
+[My Twitter](https://twitter.com/boffill_ "Mi perfil en Twitter")
+
+[My Platzi](https://platzi.com/p/ChristBM/ "Mi perfil en Platzi")
