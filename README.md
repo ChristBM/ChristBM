@@ -14,31 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Desarrollador Web / Web Developer :computer:
-Hola!!! ¿cómo estás? Me nombre es:
+# Web Developer :computer:
+Hello!!! how are you? My name is:
 ```javascript
 alert(String.fromCharCode(67,104,114,105,115,116,105,97,110))
 ```
-Te cuento que me gusta todo este mundo de la programación y realmente me entusiasma poder aportar mi trabajo a la comunidad y ayudar a otros con mis conocimientos. Si estás aquí leyendo esto y necesitas de mí, no dudes en contactarme :wink:.
+I like this whole world of programming and I'm really excited to contribute my work to the community and help others with my knowledge. If you are here reading this and you need me, don't hesitate to contact me. :wink:.
 
-## Lo que estoy aprendiendo ahora :smiley:
-En esta sección tengo una lista de las tecnologías que estoy aprendiendo ahora mismo:
+## What I am learning now :smiley:
+In this section I have a list of the technologies I am learning right now:
 
-1. React.js
-2. Next.js
-3. Gastby.js
-4. Bases de Datos
-5. Node.js
+1. Next.js
+2. Gastby.js
+3. React Native
 
-Siempre me tomo mi tiempo y practico varias veces, hago experimentos con el código y analizo lo que otros hacen. Ya sabes: "la práctica hace al maestro".
+I always take my time and practice several times, experiment with the code and analyze what others are doing. You know: "practice makes perfect".
 
 ## Frontend :sparkles:
-Estas son las tecnologías que me permiten Desarrollar aplicaciones web:
+These are the technologies that allow me to develop web applications:
 
 * Visual Studio Code
 * Linux Terminal
 * Git y GitHub
-* Diseño UI/UX (con Adobe XD y Figma )
+* UI/UX Design ( Adobe XD and Figma )
 * HTML
 * CSS
 * SASS
@@ -48,10 +46,10 @@ Estas son las tecnologías que me permiten Desarrollar aplicaciones web:
 * DevTools del Navegador
 * React
 
-## Contacto :octocat:
+## Contacts :octocat:
 
-[My Linkedin](https://www.linkedin.com/in/christian-boffill-78a21917b "Mi perfil en Linkedin")
+[My Linkedin](https://www.linkedin.com/in/christian-boffill-78a21917b "My Linkedin profile")
 
-[My Twitter](https://twitter.com/boffill_ "Mi perfil en Twitter")
+[My Twitter](https://twitter.com/boffill_ "My Twitter profile")
 
-[My Platzi](https://platzi.com/p/ChristBM/ "Mi perfil en Platzi")
+[My Platzi](https://platzi.com/p/ChristBM/ "My Platzi profile")
