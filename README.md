@@ -24,7 +24,11 @@ I like this whole world of programming and I'm really excited to contribute my w
 ## What I am learning now :smiley:
 In this section I have a list of the technologies I am learning right now:
 
-1. Next.js
+1. Backend with Node.js
+2. Express.js
+3. Nest.js
+4. Testing
+5. API REST, GraphQL and Websokets
 
 I always take my time and practice several times, experiment with the code and analyze what others are doing. You know: "practice makes perfect".
 
@@ -33,17 +37,21 @@ These are the technologies that allow me to develop web applications:
 
 * Visual Studio Code
 * Linux Terminal
-* Git y GitHub
+* Git, GitHub and CI/CD 
 * UI/UX Design ( Adobe XD and Figma )
 * HTML
 * CSS
+* CSS-in-JS
+* CSS-modules
 * SASS
 * JavaScript
 * WebComponents
 * Webpack
 * DevTools del Navegador
-* React
-* Next
+* React.js
+* Next.js
+* Redux-Toolkit
+* TypeScript
 
 ## Contacts :octocat:
 
