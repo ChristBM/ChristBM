@@ -24,11 +24,7 @@ I like this whole world of programming and I'm really excited to contribute my w
 ## What I am learning now :smiley:
 In this section I have a list of the technologies I am learning right now:
 
-1. Backend with Node.js
-2. Express.js
-3. Nest.js
-4. Testing
-5. API REST, GraphQL and Websokets
+1. Testing with Cypress
 
 I always take my time and practice several times, experiment with the code and analyze what others are doing. You know: "practice makes perfect".
 
@@ -52,6 +48,8 @@ These are the technologies that allow me to develop web applications:
 * Next.js
 * Redux-Toolkit
 * TypeScript
+* Jest + React Testing Library
+* Storybook
 
 ## Contacts :octocat:
 
