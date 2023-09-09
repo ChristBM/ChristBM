@@ -14,45 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Web Frontend Developer :computer:
-Hello!!! how are you? My name is:
-```javascript
-alert(String.fromCharCode(67,104,114,105,115,116,105,97,110))
-```
-Graduated in 2016 in Telecommunications and Electronics Engineering at the University of Pinar del Río. Self-taught in programming with numerous courses passed in online academies. Work oriented to the Frontend of modern web applications. Excellent knowledge in technologies such as Next, React, JavaScript, TypeScript, CSS, Preprocessors, HTML and Git. Able to make scalable, maintainable and reusable code; ensuring good practices and tested code. Passionate about new technologies, always with a positive and resolute attitude, good command of agile development methodologies and teamwork.
+# Frontend Developer :computer:
+I am a Telecommunications and Electronics Engineer working in the programming field. I spent about two years learning and doing personal projects before my first job as a Frontend Developer; currently I've been in that position for almost two years and counting. Furthermore, I can maintain, update or create modern web applications, plan their architecture, apply best practices, propose creative solutions, maintain communication with the team and ensure that the code is scalable, maintainable and reusable. Always friendly, smiling, focused and perseverant; learning every day and looking to give the best of me.
 
-I like this whole world of programming and I'm really excited to contribute my work to the community and help others with my knowledge. If you are here reading this and you need me, don't hesitate to contact me. :wink:.
+## SKILLS :sparkles:
 
-## What I am learning now :smiley:
-In this section I have a list of the technologies I am learning right now:
+- HTML / CSS / CSS libraries and frameworks
+- JavaScript / TypeScript
+- React.js / Next.js / State management, Component and Data Fetching Libraries
 
-1. e2e with Cypress
+- ESLint / Jest / Testing Library / Cypress
+- Storybook / Chromatic / UI testing
+- Figma / UI-UX best practices / Pixel Perfect
 
-I always take my time and practice several times, experiment with the code and analyze what others are doing. You know: "practice makes perfect".
+- Linux Terminal / VSC / Browsers DevTools
+- Git / GitHub / GitLab
+- I love to program, learn and teach
 
-## Frontend :sparkles:
-These are the technologies that allow me to develop web applications:
-
-* Visual Studio Code
-* Linux Terminal
-* Git, GitHub and Gitlab
-* UI/UX Design ( Adobe XD and Figma )
-* HTML and WebComponents
-* CSS, SASS, CSS-in-JS, CSS-modules, Tailwind and most used component libraries
-* JavaScript and TypeScript
-* Webpack
-* Browser DevTools
-* React.js
-* Next.js
-* Redux-Toolkit
-* Jest + React Testing Library
-* Storybook
-* CI/CD 
-
-## Contacts :octocat:
+## Contact me by Linkedin :octocat:
 
 [My Linkedin](https://www.linkedin.com/in/christian-boffill-78a21917b "My Linkedin profile")
-
-[My Twitter](https://twitter.com/boffill_ "My Twitter profile")
-
-[My Platzi](https://platzi.com/p/ChristBM/ "My Platzi profile")
