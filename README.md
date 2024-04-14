@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Frontend Developer :computer:
-I am a Telecommunications and Electronics Engineer working in the programming field. I spent about two years learning and doing personal projects before my first job as a Frontend Developer; currently I've been in that position for almost two years and counting. Furthermore, I can maintain, update or create modern web applications, plan their architecture, apply best practices, propose creative solutions, maintain communication with the team and ensure that the code is scalable, maintainable and reusable. Always friendly, smiling, focused and perseverant; learning every day and looking to give the best of me.
+"I am a Telecommunications and Electronics Engineering graduate with experience in the programming field. Currently, I specialize as a React.js Frontend Developer. My work commonly involves maintaining, updating, or creating modern web applications, planning their architecture, applying best practices, proposing creative solutions, maintaining communication with the team, and ensuring that the code is scalable, maintainable, and reusable. Always friendly, smiling, focused, and persevering; learning every day and looking to give my best."
 
 ## SKILLS :sparkles:
 
