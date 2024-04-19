@@ -21,17 +21,9 @@ Committed to continuous learning and professional development, I thrive in colla
 
 ## SKILLS :sparkles:
 
-- HTML / CSS / CSS libraries and frameworks
-- JavaScript / TypeScript
-- React.js / Next.js / State management, Component and Data Fetching Libraries
-
-- ESLint / Jest / Testing Library / Cypress
-- Storybook / Chromatic / UI testing
-- Figma / UI-UX best practices / Pixel Perfect
-
-- Linux Terminal / VSC / Browsers DevTools
-- Git / GitHub / GitLab
-- I love to program, learn and teach
+- Linux Terminal / VSC / Browsers DevTools / Git / GitHub / GitLab / Copilot / Node.js
+- HTML / CSS / CSS in JS / Tailwind / JavaScript / TypeScript / React.js / Next.js / Strapi
+- ESLint / Jest / Testing Library / Cypress / Storybook / Chromatic / UI testing / Figma
 
 ## Contact me by Linkedin :octocat:
 
