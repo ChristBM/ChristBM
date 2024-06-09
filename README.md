@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Frontend Developer :computer:
-"I am a Telecommunications and Electronics Engineer turned Frontend Developer, specializing in React.js. With over 3 years of experience in the tech industry, I excel in designing, developing, and optimizing modern web applications.
-My expertise encompasses architectural planning, implementing industry best practices, and developing scalable and maintainable codebases. I am adept at leveraging React.js and complementary technologies to craft dynamic user interfaces that enhance user experience.
-Committed to continuous learning and professional development, I thrive in collaborative environments where I can deploy innovative solutions and contribute to team success. My proactive approach and dedication to quality have consistently resulted in high-performance web applications that meet and exceed business objectives."
+"I am a software engineer specialized in user interface development. With several years of experience in the technology industry, I excel in the design, development and optimization of modern web applications. My experience encompasses architectural planning, application of industry best practices, and development of scalable and maintainable code bases. I am adept at leveraging React.js and complementary technologies to create dynamic user interfaces that enhance the user experience. Committed to continuous learning and professional development, I thrive in collaborative environments where I can implement innovative solutions and contribute to team success. My proactive approach and dedication to quality has resulted in high-performance web applications that meet and exceed business goals."
 
 ## SKILLS :sparkles:
 
